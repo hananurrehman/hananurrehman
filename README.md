@@ -8,7 +8,7 @@ I'm an admirer of the Rapid Software Testing school of thought.
 
 ⚙ Tools: Playwright | SuperTest JS | JMeter | WebdriverIO | Cypress | SOAP UI | Postman |
 
-- 🔭 I’m currently working on [https://github.com/hananurrehman/playwrighttestproject](https://github.com/hananurrehman/playwrightapitest) 
+- 🔭 I’m currently working on [Playwright API Automation](https://github.com/hananurrehman/playwrightapitest) 
 - 🌱 I’m currently learning automation with playwright 
 - 👯 I’m looking to collaborate on testing complex softwares that require use of large data sets 
 - 🤔 I’m looking for help with Appium android test automation 
