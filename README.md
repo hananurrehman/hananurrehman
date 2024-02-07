@@ -6,7 +6,7 @@ I'm an admirer of the Rapid Software Testing school of thought.
 
 💡 Testing skills:  API | Performance | Exploratory | Scripted
 
-⚙ Tools: Playwright | SuperTest JS | JMeter | WebdriverIO | Cypress | SOAP UI | Postman |
+⚙ Tools: Playwright | Appium | SuperTest JS | JMeter | WebdriverIO | Cypress | SOAP UI | Postman |
 
 - 🔭 I’m currently working on [Playwright API Automation](https://github.com/hananurrehman/playwrightapitest) and [Appium Android Automation](https://github.com/hananurrehman/appiumpractice)
 - 🌱 I’m currently learning automation with Playwright and Appium
