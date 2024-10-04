@@ -1,12 +1,16 @@
 ![Software tester](https://raw.githubusercontent.com/hananurrehman/hananurrehman/main/github-header-image2.png)
 
-I'm a strong proponent of context driven testing. Over the past 5+ years I have worked on several projects which gives me a broader knowledge of software scope in today's age.
-My testing approach is more inclined towards performing a thorough investigation of the software to evaluate it's state, thus helping the stakeholders make informed decisions.
-I'm an admirer of the Rapid Software Testing school of thought.
+A software tester with over 6 years of experience, I bring an investigative & analytical thought process to the table that drives context driven test strategies. 
+What sets me apart? A skill set that includes scripting, exploring, experimenting and automating to grow a test strategy that covers the greatest possible scope of the software (and hardware if it's IoT). I have had the opportunity to work on software solutions that span over a very broad set of industries, which gives me the edge of having vast business domain knowledge.
+
+I can work in a team, I can work with a sole responsibility, I can work with your XYZ process; I'm adaptable!
+
+Certifications:
+Scrum Fundamentals Certified™ | Chai Certified™ | Mocha Certified™ | Cypress Certified™ | ISTQB(Not needed)
 
 💡 Testing skills:  API | Performance | Exploratory | Scripted
 
-⚙ Tools: Playwright | Appium | SuperTest JS | JMeter | WebdriverIO | Cypress | SOAP UI | Postman |
+⚙ Tools: Playwright | Appium | JMeter | SuperTest JS | WebdriverIO | Cypress | SOAP UI | Postman |
 
 - 🔭 I’m currently working on [Playwright API Automation](https://github.com/hananurrehman/playwrightapitest) and [Appium Android Automation](https://github.com/hananurrehman/appiumpractice)
 - 🌱 I’m currently learning automation with Playwright and Appium
