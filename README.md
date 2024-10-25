@@ -12,7 +12,7 @@ Scrum Fundamentals Certified™ | Chai Certified™ | Mocha Certified™ | Cypre
 
 ⚙ Tools: Playwright | Appium | JMeter | SuperTest JS | WebdriverIO | Cypress | SOAP UI | Postman |
 
-- 🔭 I’m currently working on [Playwright API Automation](https://github.com/hananurrehman/playwrightapitest) and [Appium Android Automation](https://github.com/hananurrehman/appiumpractice)
+- 🔭 I’m currently working on [Data Masking Demo](https://github.com/hananurrehman/data-masking-demo) and [Playwright API Automation](https://github.com/hananurrehman/playwrightapitest)
 - 🌱 I’m currently learning automation with Playwright and Appium
 - 👯 I’m looking to collaborate on testing complex softwares that require use of large data sets 
 - 🤔 I’m looking for help with Appium android test automation 
