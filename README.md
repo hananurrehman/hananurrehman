@@ -20,6 +20,14 @@ Scrum Fundamentals Certified™ | Chai Certified™ | Mocha Certified™ | Cypre
 - ⚡ Fun fact: I bet I have seen worse software processes and bugs than you might have 😏. Else, prove me wrong 😉 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/hananurrehman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hananurrehman/)  
+[![Blog](https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white)](https://hananurrehman.github.io/)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hananurrehman/)
+<a href="https://club.ministryoftesting.com/u/hananurrehman/summary">
+    <img src="https://global.discourse-cdn.com/flex020/uploads/ministryoftesting/original/2X/9/9d4cc3024a0cd4bf0dfd2802ff7ed3b2a8de6280.svg" width="120" alt="Ministry of Testing" />
+</a>
+
+
+
+
 
 
