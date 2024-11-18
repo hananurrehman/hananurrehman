@@ -10,7 +10,7 @@ I'm always up for contributing on open source projects to:
 
 So hit me up if you have an interesting project 😉 
 
-Currently I'm exploring [Linktree](https://github.com/inventree/InvenTree) and researching [Data Masking with Py-Mongo](https://github.com/hananurrehman/data-masking-demo)
+Currently I'm exploring researching [Data Masking with Py-Mongo](https://github.com/hananurrehman/data-masking-demo) and on the look out to contribute to an open source project
 
 <div align="center">
 
