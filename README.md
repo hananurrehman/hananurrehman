@@ -10,8 +10,7 @@ I'm always up for contributing on open source projects to:
 
 So hit me up if you have an interesting project 😉 
 
-Currently I'm researching [Data Masking with Py-Mongo](https://github.com/hananurrehman/data-masking-demo) and on the look out to contribute to an open source project
-
+Currently I'm researching [Data Masking with Py-Mongo](https://github.com/hananurrehman/data-masking-demo) and exploring [Pimify](https://github.com/hananurrehman/pimify)
 <div align="center">
 
 [![Blog](https://img.shields.io/badge/Blog-100000?style=for-the-badge&logo=github&logoColor=white)](https://hananurrehman.github.io/)
